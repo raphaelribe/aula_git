@@ -4,8 +4,8 @@
 </head>
 <body>
 
+<?php echo "Olá"; ?>
 
 
-
-<body>
+</body>
 </html>
