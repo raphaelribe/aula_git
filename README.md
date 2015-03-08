@@ -16,7 +16,7 @@ d) git config --global --list
 
 obs: meu repositório está todo configurado com os comandos listados acima
 
-**2) PROCESSO DE CRIAÇÃO DOS PRIMEIROS ARQUIVOS**
+**2) PROCESSO DE CRIAÇÃO DOS PRIMEIROS ARQUIVOS:**
 
 Após a configuração do meu repositorio local, criei quatro arquivos.php com o comando touch. Usei o seguinte comando para adicionar os cinco arquivos de uma vez na "staging area". Após adicionar esses arquivos, visualizei o status do git e fiz um comit de cada arquivos. Segue abaixo o comando utilizados nesta etapa do item 2:
 
@@ -53,7 +53,7 @@ b) git checkout master
 c) git merge script --> Na branch master fiz um merge da branch: "script" 
 
 
-**5) PUBLICANDO PROJETO NO REPOSITÓRIO GITHUB --> raphaelribe:**
+**5) PUBLICANDO PROJETO NO REPOSITÓRIO GITHUB --> https://github/raphaelribe :**
 
 Criei uma chave privada para enviar meu projeto para o github e depois fiz um push. Segue os comandos para tais procedimentos:
 
