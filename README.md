@@ -1,4 +1,6 @@
-* * * Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git
+ Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git
+
+- - -
 
 **1)CONFIGURAÇÕES PARA O REPOSITORIO LOCAL:**
 
