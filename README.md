@@ -5,8 +5,11 @@
 Criei uma pasta para o meu projeto no pc local com o nome de: "aula_git". Entrei na pasta e usei os seguintes comandos:
 
 a) git config --global user.name "Raphael Ribeiro Gomes"
+
 b) git config --global user.email "raphaelribe@gmail.com"
+
 c) git config --global ui.color TRUE
+
 d) git config --global --list
 
 obs: meu repositório está todo configurado com os comandos listados acima
@@ -59,7 +62,7 @@ b) clip < ~/.ssh/id_rsa.pub --> Copiei a chave pública com esse comando e depois
 c) git push origin master --> Enviei todo o meu projeto para o repositório, tudo ok.
 
 
-TESTE) ** AMBIENTE DE TESTE**
+**TESTE) AMBIENTE DE TESTE**
 
 Somente para testes e treinos, criei um outro usuario no github com um email alternativo> "raphaelrgomes". Na minha conta: "raphaelribe" inseri o usuario: "raphaelrgomes" como colaborador. Segue os comandos testados:
 
