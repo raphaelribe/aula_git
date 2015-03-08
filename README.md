@@ -1,4 +1,5 @@
-*** Correçã - Instruções para o projeto 1 da aula - git ***
+* Red
+*** Correção - Instruções para o projeto 1 da aula - git ***
 
 **1)CONFIGURAÇÕES PARA O REPOSITORIO LOCAL:**
 
