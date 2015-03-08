@@ -1,4 +1,4 @@
-* Correção - Instruções para o projeto 1 da aula - git
+* * * Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git
 
 **1)CONFIGURAÇÕES PARA O REPOSITORIO LOCAL:**
 
@@ -20,31 +20,31 @@ Após a configuração do meu repositorio local, criei quatro arquivos.php com o co
 
 a) git add index.php produtos.php quemsomos.php contato.php menu.php
 
-B) git status
+b) git status
 
-b) git commit -m "" --> feito em cada arquivo que criei
+c) git commit -m "" --> feito em cada arquivo que criei
 
-c) git log --> visualizei os commits que fiz
+d) git log --> visualizei os commits que fiz
 
 
 **3) DEFINIÇÃO DE BRANCH PARA O PROJETO:**
 
-Precisei criar uma branch para o meu projeto e incluir alterações em todos os arquivos. Segue os comandos para tal procedimento:
+Precisei criar uma branch para o meu projeto e incluir alterações em todos os arquivos. Segue os comandos:
 
 a) git checkout -b "script" 
 
-b) git checkout script --> Após a criação dessa bransh "script" acessei essa branch para criar o arquivo "menu.php"
+b) git checkout script --> Após a criação dessa branch "script" fiz um acesso nela com esse comando.
 
 c) git add menu.php
 
-d) git commit -m ""
+d) git commit -m "MENSAGEM"
 
 
 **4) USANDO O MERGE:**
 
-Finalizado o meu arquivo menu.php, que teria um menu dos links para acesso as outras páginas, abri cada arquivo para inserir um include do arquivo: "menu.php", depois comitei todos e fiz um merge da branch script para a master. Segue os comandos:
+Finalizado o meu arquivo menu.php, que teria um menu dos links para acesso as outras páginas, alterei cada arquivo para inserir um include do arquivo: "menu.php", depois comitei todos e fiz um merge da branch script para a master. Segue os comandos:
 
-a) commit -m "Inserindo menu.php" --> Inseri o comando do php:include_once no arquivo: "menu.php" e depois comitei todos.
+a) commit -m "Inserindo menu.php" --> Inseri o comando do php =include_once no arquivo: "menu.php" e depois comitei todos.
 
 b) git checkout master 
 
@@ -68,8 +68,10 @@ Somente para testes e treinos, criei um outro usuario no github com um email alt
 
 a) git clone https://github.com/raphaelribe --> Clonei esse repositório no novo usuário criado: raphaelrgomes.ucb@gmail.com
 
-b) git commit -m "Alterando o arquivo " --> b) Alterei um arquivo no meu projeto com esse usuário colaborador.
+b) git add arquivo --> colocando na "staging area"
 
-c) git blame arquivo --> Com esse arquivo visualizei as pessoas que fizeram alterações no arquivo. Visualizei que última alteração foi realizada pelo novo usuário: raphaelrgomes
+c) git commit -m "Alterando o arquivo " --> Alterei um arquivo no meu projeto com esse usuário colaborador.
 
-d) git push origin master 
+d) git blame arquivo --> Com esse arquivo visualizei as pessoas que fizeram alterações no arquivo. Visualizei que última alteração foi realizada pelo novo usuário: raphaelrgomes
+
+e) git push origin master 
