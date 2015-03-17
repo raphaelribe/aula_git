@@ -63,6 +63,15 @@ b) clip < ~/.ssh/id_rsa.pub --> Copiei a chave pública com esse comando e depois
 
 c) git push origin master --> Enviei todo o meu projeto para o repositório, tudo ok.
 
+**6) Inserindo 1 release do projeto
+
+a)alterei todos os arquivos da página, inserindo um texto em cada:
+git add --> fiz esse comando para adicionar todos os meus arquivos no 2 estágico
+
+git commit -m "mensagem alterando os textos em todas as páginas"  --> fiz esse commit informando da inserção do conteúdos em todas as páginas
+
+git push origin master
+
 
 **TESTE) AMBIENTE DE TESTE**
 
