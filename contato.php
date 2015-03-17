@@ -1,15 +1,17 @@
-<html>
+<html xmlns="http://www.w3.org/1999/html">
 <head>
 	<title> Contato</title>
 </head>
 <body>
-<h1 align="center">Página contato</h1>
-<p align="center">Bem vindo a página contato do meu projeto01 de git. </p>
-<?php include_once("menu.php");
-echo "Bem vindo a página = contato";
-?>
 
-fdfdfsfsfdsfd
+
+<table>
+	<tr>
+		<td><?php include_once("menu.php"); ?> </td>
+	</tr>
+	<tr>
+                <td><h2>Fale conosto</h2><br><h2>61-32236006</h2></td>
+
 
 </body>
 </html>

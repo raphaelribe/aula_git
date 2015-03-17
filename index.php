@@ -14,8 +14,18 @@
 
 
             ?></td>
-        <td><p align='justify' O empréstimo consignado da Agiliza Empréstimo é uma excelente opção para ajudar você, aposentado ou pensionista do INSS e servidor público, replanejar sua vida financeira,  colocar as contas em dia, fazer aquela reforma na casa, ou realizar aquele grande sonho. As taxas são pequenas e as parcelas são  fixas, debitadas diretamente do seu benefício ou salário. Além disso, você, aposentado ou pensionista do INSS,  tem até 60 meses ou até 84 meses para pagar, dependendo do órgão público para o qual trabalha. É mais segurança e tranquilidade para você. Faça já sua simulação!</p>
-           </td>
+        <td>Crédito Consignado O empréstimo consignado é a modalidade de crédito que oferece a menor taxa de juros para crédito pessoal,
+            ou seja, dinheiro direto na sua conta. Este crédito esta disponível para servidores públicos federais/estaduais,
+            pensionistas militar/civil, Servidores da secretaria de segurança pública do GDF (PMDF, CBMDF e PCDF)
+            e beneficiários do INSS.
+            Confira alguma das vantagens de contratar o crédito consignado:
+
+            Nós trabalhamos com todos os bancos que oferecem crédito consignado atualmente, o que nos possibilita oferece à nossos clientes
+            a menor taxa, agilidade e segurança em suas operações Débito em Conta Modalidade de crédito disponível para servidores públicos
+            e empregados de empresa privada que recebem seus pagamentos através do Banco do Brasil ou Caixa Econômica Federal. Trabalhamos
+            com os principais bancos para oferecer a você o melhor. Consulte-nos.Cheque Empréstimo Pessoal através do seu cheque, não há necessidade de abertura de conta e você determina o prazo e a melhor data de pagamento. Consulte-nos<p align='justify'</p>
+        </td>
+
     </tr>
 </table>
 
