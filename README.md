@@ -1,5 +1,4 @@
- Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git
-
+ Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git, correção 1 release
 - - -
 
 **1)CONFIGURAÇÕES PARA O REPOSITORIO LOCAL:**
@@ -70,7 +69,11 @@ git add --> fiz esse comando para adicionar todos os meus arquivos no 2 estágico
 
 git commit -m "mensagem alterando os textos em todas as páginas"  --> fiz esse commit informando da inserção do conteúdos em todas as páginas
 
+git tag -a 0.1.0 "Inserindo uma versão na tag para o meu projeto 01 de git"
+
 git push origin master
+
+git push --tags
 
 
 **TESTE) AMBIENTE DE TESTE**
