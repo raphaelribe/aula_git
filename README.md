@@ -1,4 +1,4 @@
- Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git, correção 1 release
+ Correção em 08/03/2015 - Instruções para o projeto 1 da aula - git, correção 1 release e envio do 2 release
 - - -
 
 **1)CONFIGURAÇÕES PARA O REPOSITORIO LOCAL:**
@@ -74,6 +74,8 @@ git tag -a 0.1.0 "Inserindo uma versão na tag para o meu projeto 01 de git"
 git push origin master
 
 git push --tags
+
+obs: p resumor as instruções, fiz os mesmos procedimentos p o 2 release
 
 
 **TESTE) AMBIENTE DE TESTE**
