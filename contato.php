@@ -10,7 +10,40 @@
 		<td><?php include_once("menu.php"); ?> </td>
 	</tr>
 	<tr>
-                <td><h2>Fale conosto</h2><br><h2>61-32236006</h2></td>
+                <td><form>
+                        <tr>
+                            <td colspan="2" align="center"><h1>Faça contato </h1> </td>
+                            <td> </td>
+                            <td> </td>
+                        </tr>
+                        <tr>
+                            <td align="right"><label>Nome: </label> </td>
+                            <td><input type="text" name="nome" size="30" /></td>
+                        </tr>
+                        <tr>
+                            <td align="right"><label>Email: </label> </td>
+                            <td><input type="text" name="email" size="30" maxlength="30" /></td>
+                        </tr>
+                        <tr>
+                            <td align="right"><label>Telefone: </label> </td>
+                            <td><input type="text" name="telefone" size="30" /></td>
+                        </tr>
+
+
+                        <tr>
+                            <td align="right"><label>Mensagem: </label> </td>
+                            <td><textarea name="mensagem" rows="15" cols="60"> </textarea></td>
+                        </tr>
+                        <tr>
+                            <td align="right"> </td>
+
+                        </tr>
+
+                        <tr>
+                            <td colspan="2" align="center"><input type="submit" value="Enviar" /></td>
+                        </tr>
+                    </form>
+                </td>
 
 
 </body>
