@@ -9,9 +9,6 @@
 
     <div class="row">
 
-        <div>
-            <?php require_once($_GET["arquivo"]); ?>
-        </div>
 
         <div role="main">
             <!-- conteudo principal -->
