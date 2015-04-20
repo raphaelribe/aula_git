@@ -1,11 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-   <?php require_once("/tags/cabecalho.php");?>
-   <?php require_once("/tags/headers.php");    ?>
-<body>
-
+<!-- Inclusão da tag head com todos os códigos do js, bootstrap e css-->
+   <?php require_once("/tags/head.php");?>
 <div class="container">
-
     <?php require_once("menu.php")?>
     <div class="row">
         <div role="main">
@@ -67,11 +64,8 @@
                 </fieldset>
             </form>
         </div>
-    <footer class="row">
-
-    </footer>
+        <!-- Footer com função de data -->
+        <?php include_once("footer.php");?>
 </div>
-
-
 </body>
 </html>

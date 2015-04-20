@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php require_once("/tags/cabecalho.php");?>
-<body>
-<?php require_once("/tags/headers.php");    ?>
+<!-- Inclusão da tag head com todos os códigos do js, bootstrap e css-->
+<?php require_once("/tags/head.php");?>
 <div class="container">
 
     <?php require_once("menu.php");?>
@@ -25,18 +24,12 @@
                     <li data-slide-to="2" data-target="#carousel-643458">
                     </li>
                 </ol>
-
             <?php require_once("/script/carrosel.php");?>
                 <img src="img/bancos.png" border="0" alt="Agiliza Emprétimo Consignado">
             </div>
-
-
     </div>
-    <footer class="row">
- todos os direitos reservados<?php include_once("/script/date.php");?>
-    </footer>
-</div>
-
-
+        <!-- Footer com função de data -->
+        <?php include_once("footer.php");?>
+    </div>
 </body>
 </html>
